@@ -100,7 +100,7 @@ function Kabaddi() {
         <h3>Upcoming Kabaddi Matches</h3>
 
 <div className="box">
-  <div className="line-first"> <div className="l-name">ECS T10 Portugal </div>
+  <div className="line-first"> <div className="l-name">Velammal Yuva kabaddi-tamil.. </div>
     
     <span id='cloth-icon' class="material-symbols-outlined">
       apparel
@@ -109,17 +109,17 @@ function Kabaddi() {
 
 
   <div className="line-sec">
-    <div className="log-img img1"></div>
-    <div className="team-name-sort sort1">MI-r</div>
+    <div className="log-img img9"></div>
+    <div className="team-name-sort sort1">SRM</div>
 
-    <div className="time1">01:30AM</div>
+    <div className="time1">04:15PM</div>
   
-    <div className="team-name-sort sort2">RR-r</div>
-    <div className="log-img img2"></div>
+    <div className="team-name-sort sort2">SGW</div>
+    <div className="log-img img10"></div>
   </div>
 <div className="team-name-full">
-  <div className="full1">Mumbai Indians</div>
-  <div className="full2">Rajasthan Royals</div>
+  <div className="full1">SRM University</div>
+  <div className="full2">Sivagangi Warri..</div>
 </div>
 
 <div className="box-line"></div>
@@ -127,7 +127,7 @@ function Kabaddi() {
 
 <div className="box-last">
   <div className="mega-price"> <div className="mega">MEGA</div> 
-  <div className="price">₹3.2 Crores
+  <div className="price">₹3.5 Lakhs
 </div>
 </div>
 <div className="bell"><span class="material-symbols-outlined">
@@ -135,12 +135,14 @@ notification_add
 </span></div>
 </div>
 </div>
+
+
 
 
 
 
 <div className="box">
-  <div className="line-first"> <div className="l-name">ECS T10 Portugal </div>
+  <div className="line-first"> <div className="l-name">Velammal Yuva kabaddi-tamil.. </div>
     
     <span id='cloth-icon' class="material-symbols-outlined">
       apparel
@@ -149,17 +151,17 @@ notification_add
 
 
   <div className="line-sec">
-    <div className="log-img img1"></div>
-    <div className="team-name-sort sort1">MI-r</div>
+    <div className="log-img img11"></div>
+    <div className="team-name-sort sort1">CHE</div>
 
-    <div className="time1">01:30AM</div>
+    <div className="time1">05:45PM</div>
   
-    <div className="team-name-sort sort2">RR-r</div>
-    <div className="log-img img2"></div>
+    <div className="team-name-sort sort2">AMK</div>
+    <div className="log-img img12"></div>
   </div>
 <div className="team-name-full">
-  <div className="full1">Mumbai Indians</div>
-  <div className="full2">Rajasthan Royals</div>
+  <div className="full1">Chennai Sports</div>
+  <div className="full2">AMKC Gobi</div>
 </div>
 
 <div className="box-line"></div>
@@ -167,7 +169,7 @@ notification_add
 
 <div className="box-last">
   <div className="mega-price"> <div className="mega">MEGA</div> 
-  <div className="price">₹3.2 Crores
+  <div className="price">₹4 Lakhs
 </div>
 </div>
 <div className="bell"><span class="material-symbols-outlined">
@@ -176,89 +178,7 @@ notification_add
 </div>
 </div>
 
-
-
-<div className="box">
-  <div className="line-first"> <div className="l-name">ECS T10 Portugal </div>
-    
-    <span id='cloth-icon' class="material-symbols-outlined">
-      apparel
-    </span>
-  </div>
-
-
-  <div className="line-sec">
-    <div className="log-img img1"></div>
-    <div className="team-name-sort sort1">MI-r</div>
-
-    <div className="time1">01:30AM</div>
-  
-    <div className="team-name-sort sort2">RR-r</div>
-    <div className="log-img img2"></div>
-  </div>
-<div className="team-name-full">
-  <div className="full1">Mumbai Indians</div>
-  <div className="full2">Rajasthan Royals</div>
-</div>
-
-<div className="box-line"></div>
-
-
-<div className="box-last">
-  <div className="mega-price"> <div className="mega">MEGA</div> 
-  <div className="price">₹3.2 Crores
-</div>
-</div>
-<div className="bell"><span class="material-symbols-outlined">
-notification_add
-</span></div>
-</div>
-</div>
-
-
-
-<div className="box">
-  <div className="line-first"> <div className="l-name">ECS T10 Portugal </div>
-    
-    <span id='cloth-icon' class="material-symbols-outlined">
-      apparel
-    </span>
-  </div>
-
-
-  <div className="line-sec">
-    <div className="log-img img1"></div>
-    <div className="team-name-sort sort1">MI-r</div>
-
-    <div className="time1">01:30AM</div>
-  
-    <div className="team-name-sort sort2">RR-r</div>
-    <div className="log-img img2"></div>
-  </div>
-<div className="team-name-full">
-  <div className="full1">Mumbai Indians</div>
-  <div className="full2">Rajasthan Royals</div>
-</div>
-
-<div className="box-line"></div>
-
-
-<div className="box-last">
-  <div className="mega-price"> <div className="mega">MEGA</div> 
-  <div className="price">₹3.2 Crores
-</div>
-</div>
-<div className="bell"><span class="material-symbols-outlined">
-notification_add
-</span></div>
-</div>
-</div>
-
-
-
-
-
-<div className="footer">
+<div className="footer  debit-footer">
 <img id='footer-img' src="./img/img1.png.webp" alt="fail to load footer img " />
 <h3 id='footer-heading'>
   100% Safe and Secure
