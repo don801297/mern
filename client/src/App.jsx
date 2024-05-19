@@ -107,8 +107,13 @@ const handleclickv = () =>{
 
         <h3>Upcoming Matches</h3>
 
+
+
+
+
+
 <div className="box">
-  <div className="line-first"> <div className="l-name">ECS T10 Portugal </div>
+  <div className="line-first"> <div className="l-name">Indian T20 League </div>
     
     <span id='cloth-icon' class="material-symbols-outlined">
       apparel
@@ -118,16 +123,16 @@ const handleclickv = () =>{
 
   <div className="line-sec">
     <div className="log-img img1"></div>
-    <div className="team-name-sort sort1">MI-r</div>
+    <div className="team-name-sort sort1">SRH</div>
 
-    <div className="time1">01:30AM</div>
+    <div className="time1">03:30PM</div>
   
-    <div className="team-name-sort sort2">RR-r</div>
+    <div className="team-name-sort sort2">PBKS</div>
     <div className="log-img img2"></div>
   </div>
 <div className="team-name-full">
-  <div className="full1">Mumbai Indians</div>
-  <div className="full2">Rajasthan Royals</div>
+  <div className="full1">Sunrisers Hydera..</div>
+  <div className="full2">Punjab Kings</div>
 </div>
 
 <div className="box-line"></div>
@@ -135,7 +140,7 @@ const handleclickv = () =>{
 
 <div className="box-last">
   <div className="mega-price"> <div className="mega">MEGA</div> 
-  <div className="price">₹3.2 Crores
+  <div className="price">₹40 Crores
 </div>
 </div>
 <div className="bell"><span id='box-bell' class="material-symbols-outlined">
@@ -149,12 +154,123 @@ notification_add
 
 
 
+<div className="box">
+  <div className="line-first"> <div className="l-name">Indian T20 League </div>
+    
+    <span id='cloth-icon' class="material-symbols-outlined">
+      apparel
+    </span>
+  </div>
+
+
+  <div className="line-sec">
+    <div className="log-img img3"></div>
+    <div className="team-name-sort sort1">RR</div>
+
+    <div className="time1">07:30PM</div>
+  
+    <div className="team-name-sort sort2">KKR</div>
+    <div className="log-img img4"></div>
+  </div>
+<div className="team-name-full">
+  <div className="full1">Rajasthan Royals</div>
+  <div className="full2">Kolkata Knight Ri..</div>
+</div>
+
+<div className="box-line"></div>
+
+
+<div className="box-last">
+  <div className="mega-price"> <div className="mega">MEGA</div> 
+  <div className="price">₹30 Crores
+</div>
+</div>
+<div className="bell"><span id='box-bell' class="material-symbols-outlined">
+notification_add
+</span></div>
+</div>
+</div>
 
 
 
 
 
 
+<div className="box">
+  <div className="line-first"> <div className="l-name">Eng Wom.. vs Pak Wom.. T20l  </div>
+    
+    <span id='cloth-icon' class="material-symbols-outlined">
+      apparel
+    </span>
+  </div>
+
+
+  <div className="line-sec">
+    <div className="log-img img5"></div>
+    <div className="team-name-sort sort1">EN-W</div>
+
+    <div className="time1">05:30PM</div>
+  
+    <div className="team-name-sort sort2">PK-W</div>
+    <div className="log-img img6"></div>
+  </div>
+<div className="team-name-full">
+  <div className="full1">England Women</div>
+  <div className="full2">Pakistak Women</div>
+</div>
+
+<div className="box-line"></div>
+
+
+<div className="box-last">
+  <div className="mega-price"> <div className="mega">MEGA</div> 
+  <div className="price">₹1.3 Crores
+</div>
+</div>
+<div className="bell"><span id='box-bell' class="material-symbols-outlined">
+notification_add
+</span></div>
+</div>
+</div>
+
+
+
+<div className="box">
+  <div className="line-first"> <div className="l-name">ECN Netherland T20l  </div>
+    
+    <span id='cloth-icon' class="material-symbols-outlined">
+      apparel
+    </span>
+  </div>
+
+
+  <div className="line-sec">
+    <div className="log-img img7"></div>
+    <div className="team-name-sort sort1">NED</div>
+
+    <div className="time1">08:30PM</div>
+  
+    <div className="team-name-sort sort2">IRE</div>
+    <div className="log-img img8"></div>
+  </div>
+<div className="team-name-full">
+  <div className="full1">Netherlands</div>
+  <div className="full2">Ireland</div>
+</div>
+
+<div className="box-line"></div>
+
+
+<div className="box-last">
+  <div className="mega-price"> <div className="mega">MEGA</div> 
+  <div className="price">₹72 Lakhs
+</div>
+</div>
+<div className="bell"><span id='box-bell' class="material-symbols-outlined">
+notification_add
+</span></div>
+</div>
+</div>
 
 
 
