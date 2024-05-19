@@ -12,7 +12,7 @@ function Errore() {
 
 
 
-<div >Sorry UPI is not working right now</div>
+<div >Sorry this payment methods not working right now</div>
 
 
     </>
