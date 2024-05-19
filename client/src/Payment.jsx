@@ -46,7 +46,7 @@ account_balance
         
         </div>
 
-        <a id='pay' href="/Prime-Membership">Pay</a>
+        <a id='pay' href="/Error">Pay</a>
         </div>
 
         </div>
