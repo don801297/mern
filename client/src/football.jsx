@@ -101,7 +101,7 @@ function Football() {
         <h3>Upcoming Football Match</h3>
 
 <div className="box">
-  <div className="line-first"> <div className="l-name">ECS T10 Portugal </div>
+  <div className="line-first"> <div className="l-name">Laliga EA Sports </div>
     
     <span id='cloth-icon' class="material-symbols-outlined">
       apparel
@@ -110,17 +110,17 @@ function Football() {
 
 
   <div className="line-sec">
-    <div className="log-img img1"></div>
-    <div className="team-name-sort sort1">MI-r</div>
+    <div className="log-img img13"></div>
+    <div className="team-name-sort sort1">VIL</div>
 
-    <div className="time1">01:30AM</div>
+    <div className="time1">10:30PM</div>
   
-    <div className="team-name-sort sort2">RR-r</div>
-    <div className="log-img img2"></div>
+    <div className="team-name-sort sort2">RM</div>
+    <div className="log-img img14"></div>
   </div>
 <div className="team-name-full">
-  <div className="full1">Mumbai Indians</div>
-  <div className="full2">Rajasthan Royals</div>
+  <div className="full1">Villarreal</div>
+  <div className="full2">Real Madrid</div>
 </div>
 
 <div className="box-line"></div>
@@ -128,48 +128,7 @@ function Football() {
 
 <div className="box-last">
   <div className="mega-price"> <div className="mega">MEGA</div> 
-  <div className="price">₹3.2 Crores
-</div>
-</div>
-<div className="bell"><span class="material-symbols-outlined">
-notification_add
-</span></div>
-</div>
-</div>
-
-
-
-
-
-<div className="box">
-  <div className="line-first"> <div className="l-name">ECS T10 Portugal </div>
-    
-    <span id='cloth-icon' class="material-symbols-outlined">
-      apparel
-    </span>
-  </div>
-
-
-  <div className="line-sec">
-    <div className="log-img img1"></div>
-    <div className="team-name-sort sort1">MI-r</div>
-
-    <div className="time1">01:30AM</div>
-  
-    <div className="team-name-sort sort2">RR-r</div>
-    <div className="log-img img2"></div>
-  </div>
-<div className="team-name-full">
-  <div className="full1">Mumbai Indians</div>
-  <div className="full2">Rajasthan Royals</div>
-</div>
-
-<div className="box-line"></div>
-
-
-<div className="box-last">
-  <div className="mega-price"> <div className="mega">MEGA</div> 
-  <div className="price">₹3.2 Crores
+  <div className="price">₹3.5 Lakhs
 </div>
 </div>
 <div className="bell"><span class="material-symbols-outlined">
@@ -182,7 +141,7 @@ notification_add
 
 
 <div className="box">
-  <div className="line-first"> <div className="l-name">ECS T10 Portugal </div>
+  <div className="line-first"> <div className="l-name">Laliga EA Sports </div>
     
     <span id='cloth-icon' class="material-symbols-outlined">
       apparel
@@ -191,17 +150,17 @@ notification_add
 
 
   <div className="line-sec">
-    <div className="log-img img1"></div>
-    <div className="team-name-sort sort1">MI-r</div>
+    <div className="log-img img15"></div>
+    <div className="team-name-sort sort1">BAR</div>
 
-    <div className="time1">01:30AM</div>
+    <div className="time1">10:30PM</div>
   
-    <div className="team-name-sort sort2">RR-r</div>
-    <div className="log-img img2"></div>
+    <div className="team-name-sort sort2">RVL</div>
+    <div className="log-img img16"></div>
   </div>
 <div className="team-name-full">
-  <div className="full1">Mumbai Indians</div>
-  <div className="full2">Rajasthan Royals</div>
+  <div className="full1">Barcelona</div>
+  <div className="full2">Rayo Vallecano</div>
 </div>
 
 <div className="box-line"></div>
@@ -209,7 +168,7 @@ notification_add
 
 <div className="box-last">
   <div className="mega-price"> <div className="mega">MEGA</div> 
-  <div className="price">₹3.2 Crores
+  <div className="price">₹1.5 Lakhs
 </div>
 </div>
 <div className="bell"><span class="material-symbols-outlined">
@@ -217,11 +176,12 @@ notification_add
 </span></div>
 </div>
 </div>
+
 
 
 
 <div className="box">
-  <div className="line-first"> <div className="l-name">ECS T10 Portugal </div>
+  <div className="line-first"> <div className="l-name">Danish League </div>
     
     <span id='cloth-icon' class="material-symbols-outlined">
       apparel
@@ -230,17 +190,17 @@ notification_add
 
 
   <div className="line-sec">
-    <div className="log-img img1"></div>
-    <div className="team-name-sort sort1">MI-r</div>
+    <div className="log-img img17"></div>
+    <div className="team-name-sort sort1">SIL</div>
 
-    <div className="time1">01:30AM</div>
+    <div className="time1">Tomorrow</div>
   
-    <div className="team-name-sort sort2">RR-r</div>
-    <div className="log-img img2"></div>
+    <div className="team-name-sort sort2">BIF</div>
+    <div className="log-img img18"></div>
   </div>
 <div className="team-name-full">
-  <div className="full1">Mumbai Indians</div>
-  <div className="full2">Rajasthan Royals</div>
+  <div className="full1">Silkborg</div>
+  <div className="full2">Brondy IF</div>
 </div>
 
 <div className="box-line"></div>
@@ -248,7 +208,7 @@ notification_add
 
 <div className="box-last">
   <div className="mega-price"> <div className="mega">MEGA</div> 
-  <div className="price">₹3.2 Crores
+  <div className="price">Coming soon
 </div>
 </div>
 <div className="bell"><span class="material-symbols-outlined">
@@ -256,48 +216,6 @@ notification_add
 </span></div>
 </div>
 </div>
-
-
-
-<div className="box">
-  <div className="line-first"> <div className="l-name">ECS T10 Portugal </div>
-    
-    <span id='cloth-icon' class="material-symbols-outlined">
-      apparel
-    </span>
-  </div>
-
-
-  <div className="line-sec">
-    <div className="log-img img1"></div>
-    <div className="team-name-sort sort1">MI-r</div>
-
-    <div className="time1">01:30AM</div>
-  
-    <div className="team-name-sort sort2">RR-r</div>
-    <div className="log-img img2"></div>
-  </div>
-<div className="team-name-full">
-  <div className="full1">Mumbai Indians</div>
-  <div className="full2">Rajasthan Royals</div>
-</div>
-
-<div className="box-line"></div>
-
-
-<div className="box-last">
-  <div className="mega-price"> <div className="mega">MEGA</div> 
-  <div className="price">₹3.2 Crores
-</div>
-</div>
-<div className="bell"><span class="material-symbols-outlined">
-notification_add
-</span></div>
-</div>
-</div>
-
-
-
 
 
 
