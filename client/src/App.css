@@ -137,18 +137,130 @@ h3 {
 }
 
 .img1 {
-  background-image: url(./img/mmi.png);
-  width: 50px;
+  background-image: url(./img/srh.png);
+  width: 40px;
   height: 32px;
 
 }
 
 .img2 {
-  background-image: url(./img/rr.png);
-  width: 50px;
+  background-image: url(./img/pbks.png);
+  width: 40px;
   height: 32px;
 }
 
+
+.img3 {
+  background-image: url(./img/rr1.png);
+  width: 34px;
+  height: 30px;
+
+}
+
+.img4 {
+  background-image: url(./img/kkr1.png);
+  width: 48px;
+  height: 33px;
+
+}
+
+.img5 {
+  background-image: url(./img/eng.png);
+  width: 48px;
+  height: 33px;
+
+}
+
+.img6 {
+  background-image: url(./img/pak.png);
+  width: 30px;
+  height: 30px;
+
+}
+
+.img7 {
+  background-image: url(./img/ned.png);
+  width: 40px;
+  height: 30px;
+
+}
+
+.img8 {
+  background-image: url(./img/ire.png);
+  width: 30px;
+  height: 30px;
+
+}
+
+.img9 {
+  background-image: url(./img/ksrm.png);
+  width: 30px;
+  height: 30px;
+
+}
+
+.img10 {
+  background-image: url(./img/ksgw.png);
+  width: 30px;
+  height: 30px;
+
+}
+
+
+.img11 {
+  background-image: url(./img/kche.png);
+  width: 30px;
+  height: 30px;
+
+}
+
+
+.img12 {
+  background-image: url(./img/kamk.png);
+  width: 32px;
+  height: 30px;
+
+}
+
+.img13 {
+  background-image: url(./img/fvil.png);
+  width: 36px;
+  height: 28px;
+
+}
+
+.img14 {
+  background-image: url(./img/frm.png);
+  width: 33px;
+  height: 33px;
+
+}
+
+
+
+.img15 {
+  background-image: url(./img/fbar.png);
+  width: 30px;
+  height: 32px;
+}
+
+.img16 {
+  background-image: url(./img/frvl.png);
+  width: 51px;
+  height: 32px;
+}
+
+.img17 {
+  background-image: url(./img/fsil.png);
+  width: 30px;
+  height: 30px;
+}
+
+.img18 {
+  background-image: url(./img/fbif.png);
+  width: 42px;
+  height: 32px;
+}
 .sort2 {
   font-size: medium;
   font-weight: bold;
