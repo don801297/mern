@@ -101,7 +101,7 @@ function Football() {
         <h3>Upcoming Football Match</h3>
 
 <div className="box">
-  <div className="line-first"> <div className="l-name">Laliga EA Sports </div>
+  <div className="line-first"> <div className="l-name">Dutch League </div>
     
     <span id='cloth-icon' class="material-symbols-outlined">
       apparel
@@ -111,16 +111,16 @@ function Football() {
 
   <div className="line-sec">
     <div className="log-img img13"></div>
-    <div className="team-name-sort sort1">VIL</div>
+    <div className="team-name-sort sort1">NBR</div>
 
-    <div className="time1">10:30PM</div>
+    <div className="time1">11:30PM</div>
   
-    <div className="team-name-sort sort2">RM</div>
+    <div className="team-name-sort sort2">EMN</div>
     <div className="log-img img14"></div>
   </div>
 <div className="team-name-full">
-  <div className="full1">Villarreal</div>
-  <div className="full2">Real Madrid</div>
+  <div className="full1">NAC Breda</div>
+  <div className="full2">Emmen</div>
 </div>
 
 <div className="box-line"></div>
@@ -128,7 +128,7 @@ function Football() {
 
 <div className="box-last">
   <div className="mega-price"> <div className="mega">MEGA</div> 
-  <div className="price">₹3.5 Lakhs
+  <div className="price">Coming soon
 </div>
 </div>
 <div className="bell"><span class="material-symbols-outlined">
@@ -153,7 +153,7 @@ notification_add
     <div className="log-img img15"></div>
     <div className="team-name-sort sort1">BAR</div>
 
-    <div className="time1">10:30PM</div>
+    <div className="time1">25 May</div>
   
     <div className="team-name-sort sort2">RVL</div>
     <div className="log-img img16"></div>
@@ -168,7 +168,7 @@ notification_add
 
 <div className="box-last">
   <div className="mega-price"> <div className="mega">MEGA</div> 
-  <div className="price">₹1.5 Lakhs
+  <div className="price">Coming Soon
 </div>
 </div>
 <div className="bell"><span class="material-symbols-outlined">
@@ -193,7 +193,7 @@ notification_add
     <div className="log-img img17"></div>
     <div className="team-name-sort sort1">SIL</div>
 
-    <div className="time1">Tomorrow</div>
+    <div className="time1">26 May</div>
   
     <div className="team-name-sort sort2">BIF</div>
     <div className="log-img img18"></div>
