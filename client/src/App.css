@@ -137,37 +137,37 @@ h3 {
 }
 
 .img1 {
-  background-image: url(./img/srh.png);
-  width: 40px;
+  background-image: url(./img/kkr1.png);
+  width: 45px;
   height: 32px;
 
 }
 
 .img2 {
-  background-image: url(./img/pbks.png);
-  width: 40px;
+  background-image: url(./img/srh.png);
+  width: 45px;
   height: 32px;
 }
 
 
 .img3 {
-  background-image: url(./img/rr1.png);
-  width: 34px;
+  background-image: url(./img/usa1.png);
+  width: 45px;
   height: 30px;
 
 }
 
 .img4 {
-  background-image: url(./img/kkr1.png);
-  width: 48px;
-  height: 33px;
+  background-image: url(./img/ban.png);
+  width: 40px;
+  height: 30px;
 
 }
 
 .img5 {
   background-image: url(./img/eng.png);
   width: 48px;
-  height: 33px;
+  height: 30px;
 
 }
 
@@ -179,15 +179,15 @@ h3 {
 }
 
 .img7 {
-  background-image: url(./img/ned.png);
-  width: 40px;
+  background-image: url(./img/abd.png);
+  width: 35px;
   height: 30px;
 
 }
 
 .img8 {
-  background-image: url(./img/ire.png);
-  width: 30px;
+  background-image: url(./img/ajm.png);
+  width: 32px;
   height: 30px;
 
 }
@@ -223,16 +223,16 @@ h3 {
 }
 
 .img13 {
-  background-image: url(./img/fvil.png);
-  width: 36px;
+  background-image: url(./img/fnbr.png);
+  width: 30px;
   height: 28px;
 
 }
 
 .img14 {
-  background-image: url(./img/frm.png);
-  width: 33px;
-  height: 33px;
+  background-image: url(./img/femn.png);
+  width: 31px;
+  height: 30px;
 
 }
 
@@ -408,6 +408,8 @@ h1 {
   height: 34px;
   font-weight: bold;
   margin: auto;
+  margin-top: 30px;
+  
   font-size: initial;
   display: flex;
   justify-content: center;
