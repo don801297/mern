@@ -112,7 +112,7 @@ function Kabaddi() {
     <div className="log-img img9"></div>
     <div className="team-name-sort sort1">SRM</div>
 
-    <div className="time1">04:15PM</div>
+    <div className="time1">24 May</div>
   
     <div className="team-name-sort sort2">SGW</div>
     <div className="log-img img10"></div>
@@ -127,7 +127,7 @@ function Kabaddi() {
 
 <div className="box-last">
   <div className="mega-price"> <div className="mega">MEGA</div> 
-  <div className="price">₹3.5 Lakhs
+  <div className="price">Coming soon
 </div>
 </div>
 <div className="bell"><span class="material-symbols-outlined">
@@ -154,7 +154,7 @@ notification_add
     <div className="log-img img11"></div>
     <div className="team-name-sort sort1">CHE</div>
 
-    <div className="time1">05:45PM</div>
+    <div className="time1">25 May</div>
   
     <div className="team-name-sort sort2">AMK</div>
     <div className="log-img img12"></div>
@@ -169,7 +169,7 @@ notification_add
 
 <div className="box-last">
   <div className="mega-price"> <div className="mega">MEGA</div> 
-  <div className="price">₹4 Lakhs
+  <div className="price">Coming soon
 </div>
 </div>
 <div className="bell"><span class="material-symbols-outlined">
