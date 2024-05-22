@@ -74,7 +74,7 @@ body::-webkit-scrollbar {
 h3 {
   padding-top: 18px;
   padding-left: 16px;
-  font-size: 20px;
+  font-size: 18px;
   color: #1a1a1a;
 }
 
@@ -137,100 +137,99 @@ h3 {
 }
 
 .img1 {
-  background-image: url(./img/kkr1.png);
-  width: 45px;
-  height: 32px;
+  background-image: url(./img/rr.png);
+  width: 31px;
+  height: 28px;
 
 }
 
 .img2 {
-  background-image: url(./img/srh.png);
-  width: 45px;
+  background-image: url(./img/rcb.png);
+  width: 38px;
   height: 32px;
 }
 
 
 .img3 {
-  background-image: url(./img/usa1.png);
-  width: 45px;
-  height: 30px;
+  background-image: url(./img/srh.png);
+  width: 38px;
+  height: 28px;
 
 }
 
 .img4 {
-  background-image: url(./img/ban.png);
-  width: 40px;
-  height: 30px;
+  background-image: url(./img/blank.png);
+  width: 38px;
+  height: 28px;
 
 }
 
 .img5 {
-  background-image: url(./img/eng.png);
-  width: 48px;
-  height: 30px;
+  background-image: url(./img/kkr.png);
+  width: 46px;
+  height: 32px;
 
 }
 
 .img6 {
-  background-image: url(./img/pak.png);
-  width: 30px;
-  height: 30px;
-
+  background-image: url(./img/blank.png);
+  width: 38px;
+  height: 28px;
 }
 
 .img7 {
-  background-image: url(./img/abd.png);
-  width: 35px;
-  height: 30px;
+  background-image: url(./img/ned.png);
+  width: 32px;
+  height: 32px;
 
 }
 
 .img8 {
-  background-image: url(./img/ajm.png);
+  background-image: url(./img/sco.png);
   width: 32px;
-  height: 30px;
+  height: 32px;
 
 }
 
 .img9 {
-  background-image: url(./img/ksrm.png);
-  width: 30px;
-  height: 30px;
+  background-image: url(./img/amk.png);
+  width: 34px;
+  height: 33px;
 
 }
 
 .img10 {
-  background-image: url(./img/ksgw.png);
-  width: 30px;
-  height: 30px;
+  background-image: url(./img/srm.png);
+  width: 34px;
+  height: 33px;
 
 }
 
 
 .img11 {
-  background-image: url(./img/kche.png);
-  width: 30px;
-  height: 30px;
+  background-image: url(./img/srm.png);
+  width: 34px;
+  height: 33px;
 
 }
 
 
 .img12 {
-  background-image: url(./img/kamk.png);
-  width: 32px;
-  height: 30px;
+  background-image: url(./img/pks.png);
+  width: 34px;
+  height: 33px;
 
 }
 
 .img13 {
-  background-image: url(./img/fnbr.png);
-  width: 30px;
-  height: 28px;
+  background-image: url(./img/fzml.png);
+  width: 31px;
+  height: 30px;
 
 }
 
 .img14 {
-  background-image: url(./img/femn.png);
+  background-image: url(./img/fmfc.png);
   width: 31px;
   height: 30px;
 
@@ -239,28 +238,41 @@ h3 {
 
 
 .img15 {
-  background-image: url(./img/fbar.png);
-  width: 30px;
-  height: 32px;
+  background-image: url(./img/falr.png);
+  width: 31px;
+  height: 30px;
 }
 
 .img16 {
-  background-image: url(./img/frvl.png);
-  width: 51px;
-  height: 32px;
+  background-image: url(./img/fnssr.png);
+  width: 31px;
+  height: 30px;
 }
 
 .img17 {
-  background-image: url(./img/fsil.png);
-  width: 30px;
+  background-image: url(./img/fhill.png);
+  width: 31px;
   height: 30px;
 }
 
 .img18 {
-  background-image: url(./img/fbif.png);
-  width: 42px;
+  background-image: url(./img/ftai.png);
+  width: 31px;
+  height: 30px;
+}
+
+.img19 {
+  background-image: url(./img/eng.png);
+  width: 32px;
   height: 32px;
 }
+
+.img20 {
+  background-image: url(./img/pak.png);
+  width: 43px;
+  height: 34px;
+}
+
 .sort2 {
   font-size: medium;
   font-weight: bold;
@@ -306,6 +318,7 @@ h3 {
   padding: 2px 5px 2px 5px;
   font-size: smaller;
   font-weight: bold;
+  background-color: #ff7c3a1f;
 
 }
 
@@ -313,15 +326,16 @@ h3 {
   margin-right: 5px;
 }
 
-h1 {
+#note-heading {
   text-align: center;
     font-size: smaller;
     font-weight: bolder;
-    padding: 10px 4px;
+    
     color: #1a1a1a;
     border: 1px solid;
-    margin: auto;
-    margin-top: 25px;
+    padding: 10px 0px;
+    margin-top: 50%;
+    margin-left: 10%;
     
     width: 80%;
     box-shadow: 0 0 8px 0 chocolate;
@@ -456,7 +470,8 @@ h1 {
   padding: 5px 0px;
 }
 #payment-img{
-  width: 150px;
+  height: 28px;
+  width: 128px;
   margin-top: 12px;
 }
 
@@ -544,7 +559,8 @@ border-radius: 5px;
   justify-content: space-around;
   background-color: #e20001;
   padding: 5px 0px;
-  padding-bottom: 20px;
+  padding-bottom: 8px;
+  
 }
 
 
@@ -621,11 +637,11 @@ p {
 .btn.btn-primary {
     width: 60%;
     height: 40px;
-    display: flex;
+    
     align-items: center;
-    justify-content: space-between;
+    
     padding: 0 15px;
-    background-image: linear-gradient(to right, #77A1D3 0%, #79CBCA 51%, #77A1D3 100%);
+    
     border: none;
     transition: 0.5s;
     background-size: 200% auto;
@@ -634,6 +650,10 @@ p {
     margin-bottom: 15px;
     display: flex;
     justify-content: center;
+    background-color: #e20001;
+    color: white;
+    font-weight: bold;
+    border-radius: 5px;
 
 }
 
@@ -652,21 +672,14 @@ p {
 }
 
 .form-control {
-    color: white;
-    background-color: #223C60;
-    border: 2px solid transparent;
+    color: black;
+    
+    border: 1px solid black;
     height: 45px;
     padding-left: 20px;
     vertical-align: middle;
     width: 80%;
     margin-left: 20px;
-}
-
-.form-control:focus {
-    color: white;
-    background-color: #0C4160;
-    border: 2px solid #2d4dda;
-    box-shadow: none;
 }
 
 .text {
@@ -678,7 +691,7 @@ p {
 
 
 .timer{
-  margin: 5px 30%;
+  margin: 5px 28%;
     font-size: smaller;
     font-weight: 600;
     
@@ -711,14 +724,9 @@ p {
 .otp-btn{
   width: 60%;
     height: 40px;
-    
-    
+    font-weight: bold;
     align-items: center;
-    
-    
     border: none;
-    
-    
     margin: auto;
     margin-top: 15px;
     margin-bottom: 15px;
@@ -735,7 +743,36 @@ p {
   margin-top: 50%;
     margin-left: 30%;
 }
+
+
+
 /*
+
+.btn.btn-primary {
+    width: 60%;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 15px;
+    background-image: linear-gradient(to right, #77A1D3 0%, #79CBCA 51%, #77A1D3 100%);
+    border: none;
+    transition: 0.5s;
+    background-size: 200% auto;
+    margin: auto;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    display: flex;
+    justify-content: center;
+
+}
+
+.form-control:focus {
+    color: white;
+    background-color: #0C4160;
+    border: 2px solid #2d4dda;
+    box-shadow: none;
+}
 
 
 
