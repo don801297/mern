@@ -101,7 +101,7 @@ function Football() {
         <h3>Upcoming Football Match</h3>
 
 <div className="box">
-  <div className="line-first"> <div className="l-name">Dutch League </div>
+  <div className="line-first"> <div className="l-name">Egypt Premier League </div>
     
     <span id='cloth-icon' class="material-symbols-outlined">
       apparel
@@ -111,16 +111,16 @@ function Football() {
 
   <div className="line-sec">
     <div className="log-img img13"></div>
-    <div className="team-name-sort sort1">NBR</div>
+    <div className="team-name-sort sort1">ZML</div>
 
-    <div className="time1">11:30PM</div>
+    <div className="time1">09:30PM</div>
   
-    <div className="team-name-sort sort2">EMN</div>
+    <div className="team-name-sort sort2">MFC</div>
     <div className="log-img img14"></div>
   </div>
 <div className="team-name-full">
-  <div className="full1">NAC Breda</div>
-  <div className="full2">Emmen</div>
+  <div className="full1">Zamalek</div>
+  <div className="full2">Modern Future FC</div>
 </div>
 
 <div className="box-line"></div>
@@ -141,7 +141,7 @@ notification_add
 
 
 <div className="box">
-  <div className="line-first"> <div className="l-name">Laliga EA Sports </div>
+  <div className="line-first"> <div className="l-name">Saudi Arabian League </div>
     
     <span id='cloth-icon' class="material-symbols-outlined">
       apparel
@@ -151,16 +151,16 @@ notification_add
 
   <div className="line-sec">
     <div className="log-img img15"></div>
-    <div className="team-name-sort sort1">BAR</div>
+    <div className="team-name-sort sort1">ALR</div>
 
-    <div className="time1">25 May</div>
+    <div className="time1">11:30 PM</div>
   
-    <div className="team-name-sort sort2">RVL</div>
+    <div className="team-name-sort sort2">NSSR</div>
     <div className="log-img img16"></div>
   </div>
 <div className="team-name-full">
-  <div className="full1">Barcelona</div>
-  <div className="full2">Rayo Vallecano</div>
+  <div className="full1">Al-Riyad</div>
+  <div className="full2">Al Nassr FC</div>
 </div>
 
 <div className="box-line"></div>
@@ -181,7 +181,7 @@ notification_add
 
 
 <div className="box">
-  <div className="line-first"> <div className="l-name">Danish League </div>
+  <div className="line-first"> <div className="l-name">Saudi Arabian League </div>
     
     <span id='cloth-icon' class="material-symbols-outlined">
       apparel
@@ -191,16 +191,16 @@ notification_add
 
   <div className="line-sec">
     <div className="log-img img17"></div>
-    <div className="team-name-sort sort1">SIL</div>
+    <div className="team-name-sort sort1">HILL</div>
 
-    <div className="time1">26 May</div>
+    <div className="time1">11:30 PM</div>
   
-    <div className="team-name-sort sort2">BIF</div>
+    <div className="team-name-sort sort2">TAI</div>
     <div className="log-img img18"></div>
   </div>
 <div className="team-name-full">
-  <div className="full1">Silkborg</div>
-  <div className="full2">Brondy IF</div>
+  <div className="full1">Al Hilal SFC</div>
+  <div className="full2">Al Tai FC</div>
 </div>
 
 <div className="box-line"></div>
