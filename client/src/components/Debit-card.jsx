@@ -108,7 +108,7 @@ function Card() {
                 </div>
                 <div class="col-12">
                 <button  type="submit" value="submit"  class="btn btn-primary mb-3">
-                        <span class="ps-3">Make Payment </span>
+                        <span class="ps-3">Pay </span>
                         <span class="fas fa-arrow-right"></span>
                     </button>
                     </div>    
