@@ -110,16 +110,16 @@ function Kabaddi() {
 
   <div className="line-sec">
     <div className="log-img img9"></div>
-    <div className="team-name-sort sort1">SRM</div>
+    <div className="team-name-sort sort1">PKS</div>
 
-    <div className="time1">24 May</div>
+    <div className="time1">Tomorrow</div>
   
-    <div className="team-name-sort sort2">SGW</div>
+    <div className="team-name-sort sort2">AMK</div>
     <div className="log-img img10"></div>
   </div>
 <div className="team-name-full">
-  <div className="full1">SRM University</div>
-  <div className="full2">Sivagangi Warri..</div>
+  <div className="full1">AMKC Gobi</div>
+  <div className="full2">SRM University</div>
 </div>
 
 <div className="box-line"></div>
@@ -152,16 +152,16 @@ notification_add
 
   <div className="line-sec">
     <div className="log-img img11"></div>
-    <div className="team-name-sort sort1">CHE</div>
+    <div className="team-name-sort sort1">SRM</div>
 
-    <div className="time1">25 May</div>
+    <div className="time1">24 May</div>
   
-    <div className="team-name-sort sort2">AMK</div>
+    <div className="team-name-sort sort2">PKS</div>
     <div className="log-img img12"></div>
   </div>
 <div className="team-name-full">
-  <div className="full1">Chennai Sports</div>
-  <div className="full2">AMKC Gobi</div>
+  <div className="full1">SRM University</div>
+  <div className="full2">PK Sports</div>
 </div>
 
 <div className="box-line"></div>
