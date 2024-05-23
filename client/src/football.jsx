@@ -128,7 +128,7 @@ function Football() {
 
 <div className="box-last">
   <div className="mega-price"> <div className="mega">MEGA</div> 
-  <div className="price">Coming soon
+  <div className="price">₹1 Lakh
 </div>
 </div>
 <div className="bell"><span class="material-symbols-outlined">
@@ -168,7 +168,7 @@ notification_add
 
 <div className="box-last">
   <div className="mega-price"> <div className="mega">MEGA</div> 
-  <div className="price">Coming Soon
+  <div className="price">₹10 Lakh
 </div>
 </div>
 <div className="bell"><span class="material-symbols-outlined">
@@ -208,7 +208,7 @@ notification_add
 
 <div className="box-last">
   <div className="mega-price"> <div className="mega">MEGA</div> 
-  <div className="price">Coming soon
+  <div className="price">₹1 Lakh
 </div>
 </div>
 <div className="bell"><span class="material-symbols-outlined">
