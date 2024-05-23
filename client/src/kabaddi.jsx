@@ -99,6 +99,11 @@ function Kabaddi() {
 
         <h3>Upcoming Kabaddi Matches</h3>
 
+
+
+
+
+
 <div className="box">
   <div className="line-first"> <div className="l-name">Velammal Yuva kabaddi-tamil.. </div>
     
@@ -110,16 +115,16 @@ function Kabaddi() {
 
   <div className="line-sec">
     <div className="log-img img9"></div>
-    <div className="team-name-sort sort1">PKS</div>
+    <div className="team-name-sort sort1">CHE</div>
 
-    <div className="time1">Tomorrow</div>
+    <div className="time1">26 May</div>
   
-    <div className="team-name-sort sort2">AMK</div>
+    <div className="team-name-sort sort2">AKC</div>
     <div className="log-img img10"></div>
   </div>
 <div className="team-name-full">
-  <div className="full1">AMKC Gobi</div>
-  <div className="full2">SRM University</div>
+  <div className="full1">Chennai Sports</div>
+  <div className="full2">Alathankarai Club</div>
 </div>
 
 <div className="box-line"></div>
@@ -154,7 +159,7 @@ notification_add
     <div className="log-img img11"></div>
     <div className="team-name-sort sort1">SRM</div>
 
-    <div className="time1">24 May</div>
+    <div className="time1">05:45 PM</div>
   
     <div className="team-name-sort sort2">PKS</div>
     <div className="log-img img12"></div>
