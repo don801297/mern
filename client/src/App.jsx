@@ -112,7 +112,7 @@ const handleclickv = () =>{
 
 
 
-<div className="box">
+        <div className="box">
   <div className="line-first"> <div className="l-name">ECN Netherlands T20l Tri-Series </div>
     
     <span id='cloth-icon' class="material-symbols-outlined">
@@ -123,16 +123,16 @@ const handleclickv = () =>{
 
   <div className="line-sec">
     <div className="log-img img1"></div>
-    <div className="team-name-sort sort1">IRE</div>
+    <div className="team-name-sort sort1">NED</div>
 
-    <div className="time1">02:30PM</div>
+    <div className="time1">02:30 PM </div>
   
-    <div className="team-name-sort sort2">SCO</div>
+    <div className="team-name-sort sort2">IRE</div>
     <div className="log-img img2"></div>
   </div>
 <div className="team-name-full">
-  <div className="full1">Ireland</div>
-  <div className="full2">Scotland</div>
+  <div className="full1">Netherlands</div>
+  <div className="full2">Ireland</div>
 </div>
 
 <div className="box-line"></div>
@@ -140,7 +140,7 @@ const handleclickv = () =>{
 
 <div className="box-last">
   <div className="mega-price"> <div className="mega">MEGA</div> 
-  <div className="price">₹3.2 Crores
+  <div className="price">₹2.2 Crores
 </div>
 </div>
 <div className="bell"><span id='box-bell' class="material-symbols-outlined">
@@ -148,6 +148,8 @@ notification_add
 </span></div>
 </div>
 </div>
+
+
 
 
 
@@ -167,7 +169,7 @@ notification_add
     <div className="log-img img3"></div>
     <div className="team-name-sort sort1">SRH</div>
 
-    <div className="time1">Tomarrow</div>
+    <div className="time1">07:30 PM</div>
   
     <div className="team-name-sort sort2">RR</div>
     <div className="log-img img4"></div>
@@ -216,7 +218,7 @@ notification_add
   </div>
 <div className="team-name-full">
   <div className="full1">Kolkata Knight Rider</div>
-  <div className="full2">TBC...</div>
+  <div className="full2">To Be Confirmed</div>
 </div>
 
 <div className="box-line"></div>
@@ -236,7 +238,7 @@ notification_add
 
 
 <div className="box">
-  <div className="line-first"> <div className="l-name">ECN Netherlands T20l Tri-Series </div>
+  <div className="line-first"> <div className="l-name">USA vs Bangladesh </div>
     
     <span id='cloth-icon' class="material-symbols-outlined">
       apparel
@@ -246,16 +248,16 @@ notification_add
 
   <div className="line-sec">
     <div className="log-img img7"></div>
-    <div className="team-name-sort sort1">NED</div>
+    <div className="team-name-sort sort1">USA</div>
 
     <div className="time1">Tomorrow </div>
   
-    <div className="team-name-sort sort2">IRE</div>
+    <div className="team-name-sort sort2">BAN</div>
     <div className="log-img img8"></div>
   </div>
 <div className="team-name-full">
-  <div className="full1">Netherlands</div>
-  <div className="full2">Ireland</div>
+  <div className="full1">USA</div>
+  <div className="full2">Bangladrsh</div>
 </div>
 
 <div className="box-line"></div>
@@ -289,7 +291,7 @@ notification_add
     <div className="log-img img19"></div>
     <div className="team-name-sort sort1">EN-W</div>
 
-    <div className="time1">5:30 PM</div>
+    <div className="time1">26 May</div>
   
     <div className="team-name-sort sort2">PK-W</div>
     <div className="log-img img20"></div>
@@ -304,7 +306,7 @@ notification_add
 
 <div className="box-last">
   <div className="mega-price"> <div className="mega">MEGA</div> 
-  <div className="price">₹2.5 Crores
+  <div className="price">Coming Soon
 </div>
 </div>
 <div className="bell"><span id='box-bell' class="material-symbols-outlined">
