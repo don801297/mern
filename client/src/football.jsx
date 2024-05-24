@@ -111,16 +111,16 @@ function Football() {
 
   <div className="line-sec">
     <div className="log-img img13"></div>
-    <div className="team-name-sort sort1">ZML</div>
+    <div className="team-name-sort sort1">NB</div>
 
-    <div className="time1">09:30PM</div>
+    <div className="time1">26 May</div>
   
-    <div className="team-name-sort sort2">MFC</div>
+    <div className="team-name-sort sort2">ISC</div>
     <div className="log-img img14"></div>
   </div>
 <div className="team-name-full">
-  <div className="full1">Zamalek</div>
-  <div className="full2">Modern Future FC</div>
+  <div className="full1">National Bank Of...</div>
+  <div className="full2">Ismail SC</div>
 </div>
 
 <div className="box-line"></div>
@@ -128,7 +128,7 @@ function Football() {
 
 <div className="box-last">
   <div className="mega-price"> <div className="mega">MEGA</div> 
-  <div className="price">₹1 Lakh
+  <div className="price">Coming soon
 </div>
 </div>
 <div className="bell"><span class="material-symbols-outlined">
@@ -141,7 +141,7 @@ notification_add
 
 
 <div className="box">
-  <div className="line-first"> <div className="l-name">Saudi Arabian League </div>
+  <div className="line-first"> <div className="l-name">U-17 Euros</div>
     
     <span id='cloth-icon' class="material-symbols-outlined">
       apparel
@@ -151,16 +151,16 @@ notification_add
 
   <div className="line-sec">
     <div className="log-img img15"></div>
-    <div className="team-name-sort sort1">ALR</div>
+    <div className="team-name-sort sort1">UR-U17</div>
 
-    <div className="time1">11:30 PM</div>
+    <div className="time1">26 May</div>
   
-    <div className="team-name-sort sort2">NSSR</div>
+    <div className="team-name-sort sort2">CY-U17</div>
     <div className="log-img img16"></div>
   </div>
 <div className="team-name-full">
-  <div className="full1">Al-Riyad</div>
-  <div className="full2">Al Nassr FC</div>
+  <div className="full1">Ukraine U17</div>
+  <div className="full2">Cyprus U17</div>
 </div>
 
 <div className="box-line"></div>
@@ -168,7 +168,7 @@ notification_add
 
 <div className="box-last">
   <div className="mega-price"> <div className="mega">MEGA</div> 
-  <div className="price">₹10 Lakh
+  <div className="price">Coming Soon
 </div>
 </div>
 <div className="bell"><span class="material-symbols-outlined">
@@ -181,7 +181,7 @@ notification_add
 
 
 <div className="box">
-  <div className="line-first"> <div className="l-name">Saudi Arabian League </div>
+  <div className="line-first"> <div className="l-name">U-17 Euros </div>
     
     <span id='cloth-icon' class="material-symbols-outlined">
       apparel
@@ -191,16 +191,16 @@ notification_add
 
   <div className="line-sec">
     <div className="log-img img17"></div>
-    <div className="team-name-sort sort1">HILL</div>
+    <div className="team-name-sort sort1">PT-U17</div>
 
-    <div className="time1">11:30 PM</div>
+    <div className="time1">27 May</div>
   
-    <div className="team-name-sort sort2">TAI</div>
+    <div className="team-name-sort sort2">FR-U17</div>
     <div className="log-img img18"></div>
   </div>
 <div className="team-name-full">
-  <div className="full1">Al Hilal SFC</div>
-  <div className="full2">Al Tai FC</div>
+  <div className="full1">Portugal U17</div>
+  <div className="full2">France U17</div>
 </div>
 
 <div className="box-line"></div>
@@ -208,7 +208,7 @@ notification_add
 
 <div className="box-last">
   <div className="mega-price"> <div className="mega">MEGA</div> 
-  <div className="price">₹1 Lakh
+  <div className="price">Coming Soon
 </div>
 </div>
 <div className="bell"><span class="material-symbols-outlined">
