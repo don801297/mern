@@ -137,16 +137,16 @@ h3 {
 }
 
 .img1 {
-  background-image: url(./img/ire.png);
-  width: 37px;
+  background-image: url(./img/ned.png);
+  width: 32px;
   height: 32px;
 
 }
 
 .img2 {
-  background-image: url(./img/sco.png);
-  width: 30px;
-  height: 30px;
+  background-image: url(./img/ire.png);
+  width: 38px;
+  height: 32px;
 }
 
 
@@ -178,15 +178,15 @@ h3 {
 }
 
 .img7 {
-  background-image: url(./img/ned.png);
-  width: 32px;
-  height: 32px;
+  background-image: url(./img/usa.png);
+  width: 44px;
+  height: 34px;
 
 }
 
 .img8 {
-  background-image: url(./img/ire.png);
-  width: 38px;
+  background-image: url(./img/ban.png);
+  width: 32px;
   height: 32px;
 
 }
@@ -222,14 +222,14 @@ h3 {
 }
 
 .img13 {
-  background-image: url(./img/fzml.png);
+  background-image: url(./img/fnb.png);
   width: 31px;
   height: 30px;
 
 }
 
 .img14 {
-  background-image: url(./img/fmfc.png);
+  background-image: url(./img/fisc.png);
   width: 31px;
   height: 30px;
 
@@ -238,25 +238,25 @@ h3 {
 
 
 .img15 {
-  background-image: url(./img/falr.png);
+  background-image: url(./img/fur.png);
   width: 31px;
   height: 30px;
 }
 
 .img16 {
-  background-image: url(./img/fnssr.png);
-  width: 31px;
+  background-image: url(./img/fcy.png);
+  width: 33px;
   height: 30px;
 }
 
 .img17 {
-  background-image: url(./img/fhill.png);
+  background-image: url(./img/fpt.png);
   width: 31px;
   height: 30px;
 }
 
 .img18 {
-  background-image: url(./img/ftai.png);
+  background-image: url(./img/ffr.png);
   width: 31px;
   height: 30px;
 }
