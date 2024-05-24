@@ -174,7 +174,7 @@ notification_add
 
 <div className="box-last">
   <div className="mega-price"> <div className="mega">MEGA</div> 
-  <div className="price">Coming soon
+  <div className="price">₹4.5 Lakhs
 </div>
 </div>
 <div className="bell"><span class="material-symbols-outlined">
