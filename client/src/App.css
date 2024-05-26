@@ -137,21 +137,21 @@ h3 {
 }
 
 .img1 {
-  background-image: url(./img/ned.png);
+  background-image: url(./img/eng.png);
   width: 32px;
   height: 32px;
 
 }
 
 .img2 {
-  background-image: url(./img/ire.png);
+  background-image: url(./img/pak.png);
   width: 38px;
   height: 32px;
 }
 
 
 .img3 {
-  background-image: url(./img/srh.png);
+  background-image: url(./img/pak.png);
   width: 38px;
   height: 28px;
 
@@ -172,20 +172,20 @@ h3 {
 }
 
 .img6 {
-  background-image: url(./img/blank.png);
+  background-image: url(./img/srh.png);
   width: 38px;
   height: 28px;
 }
 
 .img7 {
-  background-image: url(./img/usa.png);
-  width: 44px;
+  background-image: url(./img/sri.png);
+  width: 36px;
   height: 34px;
 
 }
 
 .img8 {
-  background-image: url(./img/ban.png);
+  background-image: url(./img/ned.png);
   width: 32px;
   height: 32px;
 
@@ -207,7 +207,7 @@ h3 {
 
 
 .img11 {
-  background-image: url(./img/srm.png);
+  background-image: url(./img/kakc.png);
   width: 34px;
   height: 33px;
 
@@ -262,14 +262,14 @@ h3 {
 }
 
 .img19 {
-  background-image: url(./img/eng.png);
+  background-image: url(./img/ned.png);
   width: 32px;
   height: 32px;
 }
 
 .img20 {
-  background-image: url(./img/pak.png);
-  width: 43px;
+  background-image: url(./img/ire.png);
+  width: 40px;
   height: 34px;
 }
 
