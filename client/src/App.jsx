@@ -147,7 +147,7 @@ const handleclickv = () =>{
 
 <div className="box-last">
   <div className="mega-price"> <div className="mega">MEGA</div> 
-  <div className="price">₹90 Crores
+  <div className="price">₹1.3 Crores
 </div>
 </div>
 <div className="bell"><span id='box-bell' class="material-symbols-outlined">
