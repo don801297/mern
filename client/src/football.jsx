@@ -113,7 +113,7 @@ function Football() {
     <div className="log-img img13"></div>
     <div className="team-name-sort sort1">NB</div>
 
-    <div className="time1">26 May</div>
+    <div className="time1">06:30 PM</div>
   
     <div className="team-name-sort sort2">ISC</div>
     <div className="log-img img14"></div>
@@ -128,7 +128,7 @@ function Football() {
 
 <div className="box-last">
   <div className="mega-price"> <div className="mega">MEGA</div> 
-  <div className="price">Coming soon
+  <div className="price">₹1 Lakhs
 </div>
 </div>
 <div className="bell"><span class="material-symbols-outlined">
@@ -153,7 +153,7 @@ notification_add
     <div className="log-img img15"></div>
     <div className="team-name-sort sort1">UR-U17</div>
 
-    <div className="time1">26 May</div>
+    <div className="time1">11:00 PM</div>
   
     <div className="team-name-sort sort2">CY-U17</div>
     <div className="log-img img16"></div>
@@ -168,7 +168,7 @@ notification_add
 
 <div className="box-last">
   <div className="mega-price"> <div className="mega">MEGA</div> 
-  <div className="price">Coming Soon
+  <div className="price">₹1 Lakhs
 </div>
 </div>
 <div className="bell"><span class="material-symbols-outlined">
@@ -193,7 +193,7 @@ notification_add
     <div className="log-img img17"></div>
     <div className="team-name-sort sort1">PT-U17</div>
 
-    <div className="time1">27 May</div>
+    <div className="time1">Tomorrow</div>
   
     <div className="team-name-sort sort2">FR-U17</div>
     <div className="log-img img18"></div>
